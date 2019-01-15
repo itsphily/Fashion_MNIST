@@ -1,0 +1,4 @@
+MNIST_data
+fc_model.py
+helper.py
+__pycache__
