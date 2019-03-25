@@ -2,11 +2,12 @@
 15/01/2019
 
 ### Installation
+__USING JUPYTER NOTEBOOKS__
 - Clone this repository
 - Install Pytorch: 
-       > conda install PyTorch -c PyTorch    (using anaconda)
-       > pip3 install torchvision
+       > conda install PyTorch -c PyTorch    (using anaconda)    
 (if you can't install Pytorch follow the instructions on this link: http://deeplizard.com/learn/video/UWlFM0R_x6I)
+- run jupyter notebook in the directory in which you cloned this repo
 - run Fashion_MNIST.ipynb
 
 ### Description
@@ -23,3 +24,6 @@ This project was done during a Nanodegree for Udacity
 
 ### Skills learned
 Pytorch (basic neural network)
+
+### Careful
+The code needs to be fixed!
