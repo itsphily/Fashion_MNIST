@@ -16,4 +16,4 @@ imported datasets, and transforms from torchvision
 This project was done during a Nanodegree for Udacity
 
 ### Skills learned
-Learned how to structure neural networks and program a very basic neural network using pytorch
+Pytorch (basic neural network)
